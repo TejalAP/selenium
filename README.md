@@ -14,7 +14,7 @@ provides an infrastructure for the [W3C WebDriver specification](https://w3c.git
 major web browsers.
 
 The project is made possible by volunteer contributors who've
-generously donated thousands of hours in code development and upkeep.
+generously donated thousands of hours in code development and upkeep and worked hard for it.
 
 Selenium's source code is made available under the [Apache 2.0 license](https://github.com/SeleniumHQ/selenium/blob/trunk/LICENSE).
 
